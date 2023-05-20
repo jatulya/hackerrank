@@ -2,11 +2,19 @@ from collections import defaultdict
 
 a, b = map(int, input().split())
 
-B = defaultdict(list)
-A = 
-
+A = defaultdict(list)
 for i in range(a):
-    k = input()
-    d[k]
+    key = input()
+    A[key].append(i+1)
 
-print(d)
+for i in range(b):
+    key = input()
+
+    if key in A:
+        print(' '.join(map(str,A[key])))
+    else: 
+        print(-1)
+
+
+
+
