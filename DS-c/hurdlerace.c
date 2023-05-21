@@ -1,32 +1,26 @@
 #include <stdio.h>
-#include <string.h>
 
-int textarea(int a[], char str[])
+int hurdleRace(int n, int k, int a[])
 {
-    int len, i, max=0, pos=0;
-    len = strlen(str);
-    int ascii[len];
+    int i, max=0;
     
-    for (i=0;i<len;i++)
-    {
-        ascii[i] = str[i]; //converting the character to ascii code
-        ascii[i] -= 97; //reducing it by 'a' to get the pos in height array
-        
-        //finding the character with maximum height in the given string
-        if (max<a[ascii[i]])
-            max = a[ascii[i]];
-    }
+    for (i=0;i<n;i++)
+        if (max<a[i])
+            max = a[i];
     
-    return (len*max);   
+    if (max>k)
+        return (max - k);
+    else
+        return 0;     
 }
 
 int main()
 {
-    int i, a[26];
-    char word[10];
-    for (i=0;i<26;i++)
-        scanf("%d",&a[i]);
-    scanf("%s",word);
-    printf("%d", textarea(a, word));
+    int n, k;
+    scanf("%d%d", &n,&k);
+    int hurdles[n];
+    for (int i=0;i<n;i++)
+        scanf("%d",&hurdles[i]);
+    printf("%d", hurdleRace(n, k, hurdles));
     return 0;
 }
