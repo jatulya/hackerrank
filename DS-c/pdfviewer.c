@@ -5,7 +5,7 @@ int textarea(int a[], char str[])
 {
     int len, i, max=0, pos=0;
     len = strlen(str);
-    int ascii[len];
+    int ascii[10];
     
     for (i=0;i<len;i++)
     {

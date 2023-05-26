@@ -18,7 +18,7 @@ int main()
 {
     int n, k;
     scanf("%d%d", &n,&k);
-    int hurdles[n];
+    int hurdles[10];
     for (int i=0;i<n;i++)
         scanf("%d",&hurdles[i]);
     printf("%d", hurdleRace(n, k, hurdles));
