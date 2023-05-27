@@ -1,4 +1,4 @@
-package java; //!!!!!do not use this line in your solution for hackerrank!!!
+
 
 import java.util.Scanner;
 import java.util.regex.Matcher;
