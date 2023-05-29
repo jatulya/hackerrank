@@ -1,14 +1,12 @@
 def prisoner(n,m,k):
-    
-    w = k
-    
-    for i in range(1, m):
-        
-        w = (w+1)%n
-        if w == 0:
-            w = n
             
-    return w
+    x = m%n
+    w = (x+k-1)%n
+   
+    if w==0:
+        return n
+    else: 
+        return w
 
 cases = int(input())
 
