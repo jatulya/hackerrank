@@ -19,7 +19,7 @@ int main()
 {
     int t, i;
     scanf("%d",&t); 
-    int test_case[t];
+    int test_case[10];
     for(i=0;i<t;i++)
     {
         scanf("%d",&test_case[i]);
