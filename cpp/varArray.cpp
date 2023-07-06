@@ -6,8 +6,7 @@ int main()
 {
     int i,n, q, col, ele;
     cin>>n>>q; //reading the number of rows and test cases
-    vector<vector<int>> matrix(n); //declaring a variable matrix with fixed number of rows
-    
+    vector<vector<int>> matrix(n); //declaring a variable matrix with fixed number of rows   
     for(i=0;i<n;i++)
     {
         cin>>col; //reading the number of columns
