@@ -3,24 +3,18 @@
 This is the repo that contains the solutions that I came up for the hackerrank challenges that I had tried. 
 
 <h3> Different categories <h3>
-
-    1. Java
-<ol>
-    <li></li>
-</ol>
-    2. Data Structures and Algorithm (languages -> C, Python, Cpp)
-<ol>
-    <li></li>
-</ol>
-    3. Python
+<ul>
+    <li> Python 
     <ol>
-        <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/doormat.py">Designer Door mat</a></li>
-        <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/alpharangoli.py">Alpharangoli</a></li>
-        <li>Piling Up</li>
-        <li>Piling Up</li>
-        <li>Piling Up</li>
-        <li>Piling Up</li>
-        <li>Piling Up</li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/doormat.py">Designer Door mat</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/alpharangolipy"> Alpharangoli</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/piled.py">Piling Up!</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/miniongame.py"> The Minion Game</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/topolar.py"> Polar Coordinates </a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/def_dict.py"> DefaultDict Tutorial</a></li>
+    </ol></li>
+    <li> C++
+    <ol>
+    <li></li>
     </ol>
-    4. Cpp
-    
+</ul>
