@@ -4,7 +4,7 @@ This is the repo that contains the solutions that I came up for the hackerrank c
 
 <h3> Different categories <h3>
 <ul>
-    <li> Python 
+    <li> Python <br>
     <ol>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/doormat.py">Designer Door mat</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/alpharangolipy"> Alpharangoli</a></li>
@@ -22,9 +22,16 @@ This is the repo that contains the solutions that I came up for the hackerrank c
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/setfnc.py">Set .discar(), .remove() & .pop()</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/wordCount.py">Word Order</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/piled.py">Piling Up!</a></li>
-    </ol></li>
-    <li> C++
+    </ol></li><br>
+    <li> C++<br>
     <ol>
-    <li></li>
-    </ol>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/cpp/varArray.cpp">Variable Sized Arrays</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/cpp/tags.cpp">Attribute Parser</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/cpp/streamclass.cpp">StringStream</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/cpp/boxclass.py">Box It!</a></li>
+    </ol><br></li>
+    <li> Java <br> 
+    </li>
+    <li> Problem Solving <br> 
+    </li>
 </ul>
