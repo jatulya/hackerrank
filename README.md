@@ -31,7 +31,17 @@ This is the repo that contains the solutions that I came up for the hackerrank c
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/cpp/boxclass.py">Box It!</a></li>
     </ol><br></li>
     <li> Java <br> 
+    <ol>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/java/anagrams.java">Java Anagrams</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/java/ipaddress.java">Java Regex </a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/java/regex2.java">Java Regex 2 - Duplicate Words</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/java/regex3.java"> Valid Username Regular Expression</a></li>
+    </ol><br>
     </li>
-    <li> Problem Solving <br> 
-    </li>
-</ul>
+    <li> Problem Solving <br>
+    <ol>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/">Variable Sized Arrays</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/">Attribute Parser</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/">StringStream</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/">Box It!</a></li>
+    </ol><br> </ul>
