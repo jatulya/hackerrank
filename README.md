@@ -32,10 +32,13 @@ This is the repo that contains the solutions that I came up for the hackerrank c
     </ol><br></li>
     <li> Java <br> 
     <ol>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/java/currency.java">Java Currency Formatter</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/java/anagrams.java">Java Anagrams</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/java/ipaddress.java">Java Regex </a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/java/regex2.java">Java Regex 2 - Duplicate Words</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/java/regex3.java"> Valid Username Regular Expression</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/java/tagcontent.java"> Tag Content Extractor</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/java/Instanceof.java">Java Instancof Keyword </a></li>
     </ol><br>
     </li>
     <li> Problem Solving <br>
