@@ -45,10 +45,13 @@ This is the repo that contains the solutions that I came up for the hackerrank c
     <ol>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/appleOrange.c">Apple and Orange </a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/kangaroo.c">Number Line Jumps</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/factorInSet.c">Between Two Sets</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/256thday.c">Day of the Programmer</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/billofanna.c">Bill Division</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/pagecount.c">Drawing Book </a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/valleycount.c">Counting Valleys</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/magicsquare.c">Forming a Magic Square</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/pickingnum.c">Picking Numbers</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/playerrank.c">Climbing the Leaderboard</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/hurdlerace.c">The Hurdle Race</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/padfviewer.c">Designer PDF Viewer</a></li>
@@ -65,4 +68,6 @@ This is the repo that contains the solutions that I came up for the hackerrank c
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/appendelete.c">Append and Delete</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/squareRange.c">Sherlock and Square </a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/library.c">Library Fine</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/sticks.py">Cut the Sticks</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/infString.cpp">Repeated String</a></li>
     </ol><br> </ul>
