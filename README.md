@@ -43,8 +43,26 @@ This is the repo that contains the solutions that I came up for the hackerrank c
     </li>
     <li> Problem Solving <br>
     <ol>
-    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/">Variable Sized Arrays</a></li>
-    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/">Attribute Parser</a></li>
-    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/">StringStream</a></li>
-    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/">Box It!</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/appleOrange.c">Apple and Orange </a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/kangaroo.c">Number Line Jumps</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/256thday.c">Day of the Programmer</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/billofanna.c">Bill Division</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/valleycount.c">Counting Valleys</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/magicsquare.c">Forming a Magic Square</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/playerrank.c">Climbing the Leaderboard</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/hurdlerace.c">The Hurdle Race</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/padfviewer.c">Designer PDF Viewer</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/utopianTree.c">Utopian Tree</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/professor.c">Angry Professor</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/beautidays.py">Beautiful Days at the Movies</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/advertising.py">Viral Advertising</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/prisoner.py">Save the Prisoner!</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/rotate.py">Circular Array Rotation</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/sequence.py">Sequence Equation</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/climbclouds.py">Jumping on the Clouds: Revisited</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/divisors.py">Find Digits</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/longFact1.c">Extra Long Factorials</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/appendelete.c">Append and Delete</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/squareRange.c">Sherlock and Square </a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/library.c">Library Fine</a></li>
     </ol><br> </ul>
