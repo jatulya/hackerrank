@@ -5,7 +5,7 @@ This is the repo that contains the solutions that I came up for the hackerrank c
 <h3> Different categories <h3>
 <ul>
     <li> Python <br>
-    <ol>
+    <ol type="1">
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/doormat.py">Designer Door mat</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/alpharangolipy"> Alpharangoli</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/piled.py">Piling Up!</a></li>
@@ -21,17 +21,24 @@ This is the repo that contains the solutions that I came up for the hackerrank c
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/setadd().py">Set .add()</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/setfnc.py">Set .discar(), .remove() & .pop()</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/wordCount.py">Word Order</a></li>
-    <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/piled.py">Piling Up!</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/groupby.py">Compress the String!</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/iters.py">Iterables and Iterators</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/company.py">Company Logo</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/subset.py">Check Subset</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/union.py">Set.union() Operation</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/triQuest2.py">Triangle Quest 2</a></li>
     </ol></li><br>
     <li> C++<br>
-    <ol>
+    <ol type="1">
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/cpp/varArray.cpp">Variable Sized Arrays</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/cpp/tags.cpp">Attribute Parser</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/cpp/streamclass.cpp">StringStream</a></li>
-    <li><a href="https://github.com/jatulya/hackerrank/blob/main/cpp/boxclass.py">Box It!</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/cpp/boxclass.cpp">Box It!</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/cpp/exception.cpp">Inherited Code</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/cpp/manyExcep.cpp">Exceptional Server</a></li>
     </ol><br></li>
     <li> Java <br> 
-    <ol>
+    <ol type="1">
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/java/currency.java">Java Currency Formatter</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/java/anagrams.java">Java Anagrams</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/java/ipaddress.java">Java Regex </a></li>
@@ -39,10 +46,11 @@ This is the repo that contains the solutions that I came up for the hackerrank c
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/java/regex3.java"> Valid Username Regular Expression</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/java/tagcontent.java"> Tag Content Extractor</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/java/Instanceof.java">Java Instancof Keyword </a></li>
-    </ol><br>
-    </li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/java/bigDeci.java">Java BigDecimal </a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/java/bigPrime.java">Java Primality Test </a></li>
+    </ol><br></li>
     <li> Problem Solving <br>
-    <ol>
+    <ol type="1">
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/appleOrange.c">Apple and Orange </a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/kangaroo.c">Number Line Jumps</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/factorInSet.c">Between Two Sets</a></li>
