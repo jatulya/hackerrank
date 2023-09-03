@@ -26,7 +26,9 @@ This is the repo that contains the solutions that I came up for the hackerrank c
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/company.py">Company Logo</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/subset.py">Check Subset</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/union.py">Set.union() Operation</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/triQuest.py">Triangle Quest</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/triQuest2.py">Triangle Quest 2</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/setUpdates.py">Set Mutations</a></li>
     </ol></li><br>
     <li> C++<br>
     <ol type="1">
@@ -47,8 +49,9 @@ This is the repo that contains the solutions that I came up for the hackerrank c
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/java/tagcontent.java"> Tag Content Extractor</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/java/Instanceof.java">Java Instancof Keyword </a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/java/bigDeci.java">Java BigDecimal </a></li>
-    <li><a href="https://github.com/jatulya/hackerrank/blob/main/java/bigPrime.java">Java Primality Test </a></li>
-    </ol><br></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/java/bigint.java">Java BigInteger</a></li>
+    </ol><br></li><li><a href="https://github.com/jatulya/hackerrank/blob/main/java/bigPrime.java">Java Primality Test </a></li>
+    </ol><br></li>   
     <li> Problem Solving <br>
     <ol type="1">
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/appleOrange.c">Apple and Orange </a></li>
