@@ -49,8 +49,8 @@ This is the repo that contains the solutions that I came up for the hackerrank c
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/java/tagcontent.java"> Tag Content Extractor</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/java/Instanceof.java">Java Instancof Keyword </a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/java/bigDeci.java">Java BigDecimal </a></li>
-    <li><a href="https://github.com/jatulya/hackerrank/blob/main/java/bigint.java">Java BigInteger</a></li>
-    </ol><br></li><li><a href="https://github.com/jatulya/hackerrank/blob/main/java/bigPrime.java">Java Primality Test </a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/java/bigint.java">Java BigInteger</a></li>   
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/java/bigPrime.java">Java Primality Test </a></li></ol><br></li>
     </ol><br></li>   
     <li> Problem Solving <br>
     <ol type="1">
@@ -81,4 +81,5 @@ This is the repo that contains the solutions that I came up for the hackerrank c
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/library.c">Library Fine</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/sticks.py">Cut the Sticks</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/infString.cpp">Repeated String</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/panagrams.py">Panagrams</a></li>
     </ol><br> </ul>
