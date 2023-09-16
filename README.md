@@ -7,7 +7,7 @@ This is the repo that contains the solutions that I came up for the hackerrank c
     <li> Python <br>
     <ol type="1">
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/doormat.py">Designer Door mat</a></li>
-    <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/alpharangolipy"> Alpharangoli</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/alpharangoli.py"> Alpharangoli</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/piled.py">Piling Up!</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/miniongame.py"> The Minion Game</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/python/mergethetools.py">Merge the Tools!</a></li>
