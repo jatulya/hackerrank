@@ -83,4 +83,5 @@ This is the repo that contains the solutions that I came up for the hackerrank c
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/infString.cpp">Repeated String</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/panagrams.py">Panagrams</a></li>
     <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/nondivisble.cpp">Non-divisble Subset</a></li>
+    <li><a href="https://github.com/jatulya/hackerrank/blob/main/DS-c/clouds.cpp">Jumping On The Clouds</a></li>
     </ol><br> </ul>
